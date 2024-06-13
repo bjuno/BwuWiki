@@ -1,8 +1,8 @@
 ---
-title: RunecraftWithUs
+title: SoulCraftWithUs
 description: Example.
 # Slug is the URL path for this page.
-slug: /RunecraftWithUs
+slug: /SoulCraftWithUs
 ---
 
 import React from 'react';
