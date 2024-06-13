@@ -58,7 +58,7 @@ import changes from './changes.json'
 
 - 'Phite Club quest completed
 - A bank preset similar to the example
-- Legends quest complete & cape equipped
+- Legends quest complete & cape equipped, configured for arrival outside the legends guild.
 - Edgeville sword equipped
 - Phoenix necklace recommended
 - Use demonic skull at your own risk.
