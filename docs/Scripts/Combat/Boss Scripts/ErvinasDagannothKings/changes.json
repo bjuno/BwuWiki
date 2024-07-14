@@ -1,0 +1,40 @@
+[
+    {
+        "date": "2024-06-08",
+        "title": "v2.0.0",
+        "items": [
+            "Release v2.0.0",
+            "Vampyrism Aura support",
+            "Aura tier 2 refresh support",
+            "Aura tier 2 buying support",
+            "Major fixes in combat"
+        ]
+    },
+    {
+        "date": "2024-05-23",
+        "title": "v1.1.0",
+        "items": [
+            "Release v1.1.0",
+            "Added mob killing counter",
+            "Ability to eat food from BoB",
+            "General code improvements",
+            "Fixed bug with armour switching",
+            "Added BoB and Attack familiar support",
+            "Added regular/curse protection prayers support for accounts which doesn't have split soul or do not sustain hp with soul split"
+        ]
+    },
+    {
+        "date": "2024-05-22",
+        "title": "v1.0.1",
+        "items": [
+            "Optimized Fighting Phase. Fighting should be more efficient and more reliable/stable"
+        ]
+    },
+    {
+        "date": "2024-05-21",
+        "title": "v1.0.0",
+        "items": [
+            "Release"
+        ]
+    }
+]
