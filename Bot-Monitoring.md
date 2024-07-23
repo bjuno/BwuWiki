@@ -29,19 +29,15 @@
 ## 2. Setting Up "Auto Screenshot" Software
 
 ### Step 1: Download the Software
-1. **Visit the Official Website**: Go to the [Auto Screenshot](https://autoscreenshot.com) website.
-2. **Download the Installer**: Select the appropriate version for your operating system (Windows, macOS, Linux) and download the installer.
+1. **Visit the Official GitHub repo**: Go to the [Auto Screenshot]([https://github.com/artem78/AutoScreenshot)) GitHub page.
+2. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
 
-### Step 2: Install the Software
-1. **Run the Installer**: Open the downloaded file and follow the installation instructions.
-2. **Launch the Application**: After installation, open the Auto Screenshot application.
-
-### Step 3: Configure Auto Screenshot
+### Step 2: Configure Auto Screenshot
 1. **Set Screenshot Intervals**: In the application settings, configure the intervals at which screenshots should be taken.
 2. **Choose Save Location**: Select the folder where the screenshots will be saved.
 3. **Adjust Capture Settings**: Configure additional settings like screen region, image format, and quality as needed.
 
-### Step 4: Start Taking Screenshots
+### Step 3: Start Taking Screenshots
 1. **Start the Service**: Click on the "Start" button within the application to begin automatic screenshot capture.
 2. **Monitor Activity**: Ensure the application is running in the background to continuously capture screenshots at the set intervals.
 
@@ -49,16 +45,10 @@
 
 ## 3. Auto Upload to Discord Server Using DAU
 
-### Step 1: Install DAU (Discord Auto Upload)
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/tardisx/discord-auto-upload.git
-   cd discord-auto-upload
-   ```
-2. **Install Dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
+### Step 1: Download the Software
+1. **Visit the Official GitHub repo**: Go to the [DAU]([https://github.com/tardisx/discord-auto-upload]) GitHub page.
+2. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
+
 
 ### Step 2: Configure DAU
 1. **Create a Configuration File**:
