@@ -24,31 +24,6 @@
    - Customize permissions for each role (e.g., Admin, Moderator, Member).
    - Assign roles to members by right-clicking on their username and selecting "Roles".
 
-3. **Invite Friends**:
-   - Click on the "Invite your friends" button in the middle of the screen or the "Invite" button at the top of the channel list.
-   - Copy the invite link and share it with your friends.
-
-### Step 3: Enhance Your Server
-1. **Add Bots**:
-   - Bots can automate tasks, play music, moderate, and add fun features.
-   - Popular bots include MEE6, Dyno, Rythm, and Carl-bot.
-   - To add a bot, visit a bot's website, log in with Discord, and follow the instructions to add it to your server.
-
-2. **Set Up Moderation**:
-   - Establish rules and guidelines for your server.
-   - Use moderation bots or assign moderator roles to trusted members.
-
-3. **Create Custom Emojis**:
-   - Go to "Server Settings" > "Emoji".
-   - Upload custom emoji images for your server members to use.
-
-### Step 4: Engage Your Community
-1. **Organize Events**: Plan and announce events like game nights, study sessions, or discussions.
-2. **Stay Active**: Regularly participate in conversations and encourage members to do the same.
-3. **Feedback**: Ask for feedback from your community to improve the server.
-
-By following these steps, you can create a well-organized and active Discord server tailored to your needs and interests.
-
 ---
 
 ## 2. Setting Up "Auto Screenshot" Software
