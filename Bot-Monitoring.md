@@ -29,8 +29,8 @@
 ## 2. Setting Up "Auto Screenshot" Software
 
 ### Step 1: Download the Software
-1. **Visit the Official GitHub repo**: Go to the [Auto Screenshot]([https://github.com/artem78/AutoScreenshot)) GitHub page.
-2. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
+1. **Visit the Official GitHub repo**: Go to the [Auto Screenshot](https://github.com/artem78/AutoScreenshot) GitHub page.
+3. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
 
 ### Step 2: Configure Auto Screenshot
 1. **Set Screenshot Intervals**: In the application settings, configure the intervals at which screenshots should be taken.
@@ -46,7 +46,7 @@
 ## 3. Auto Upload to Discord Server Using DAU
 
 ### Step 1: Download the Software
-1. **Visit the Official GitHub repo**: Go to the [DAU]([https://github.com/tardisx/discord-auto-upload]) GitHub page.
+1. **Visit the Official GitHub repo**: Go to the [DAU](https://github.com/tardisx/discord-auto-upload) GitHub page.
 2. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
 
 
