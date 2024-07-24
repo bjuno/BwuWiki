@@ -2,7 +2,7 @@
 title: SanctumWithUs [Normal]
 description: Kills Sanctum of Rebirth on normal mode.
 # Slug is the URL path for this page.
-slug: /SanctumWithUs_Normal
+slug: /SanctumWithUs-Normal
 ---
 
 import React from 'react';
