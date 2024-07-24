@@ -12,7 +12,7 @@
    - Optionally, upload an icon for your server.
    - Click "Create".
 
-### Step 2: Customize Your Server
+### (optional) Step 2: Customize Your Server
 1. **Create Channels**:
    - **Text Channels**: Click the "+" next to "Text Channels" to add channels (e.g., #general, #announcements).
    - **Voice Channels**: Click the "+" next to "Voice Channels" to add channels (e.g., General, Music).
@@ -49,27 +49,11 @@
 1. **Visit the Official GitHub repo**: Go to the [DAU](https://github.com/tardisx/discord-auto-upload) GitHub page.
 2. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
 
-
 ### Step 2: Configure DAU
-1. **Create a Configuration File**:
-   - Create a new file named `config.json` in the `discord-auto-upload` directory.
-   - Add the following configuration details:
-     ```json
-     {
-       "discord_webhook_url": "YOUR_DISCORD_WEBHOOK_URL",
-       "upload_interval": 60,
-       "upload_directory": "path/to/screenshots"
-     }
-     ```
-   - Replace `YOUR_DISCORD_WEBHOOK_URL` with the webhook URL of the Discord channel where you want to upload the screenshots.
-   - Adjust the `upload_interval` to set how often (in seconds) the files should be uploaded.
-   - Set the `upload_directory` to the folder where your screenshots are saved.
+1. **First time configuration**: Done in web interface accessible via http://localhost:9090 after running the executable. Follow the instruction on GitHub page for more details.
 
 ### Step 3: Run DAU
-1. **Start the Script**:
-   ```sh
-   python dau.py
-   ```
+1. **Start the Application**:
 2. **Monitor Uploads**: Ensure that the script is running and check the Discord channel to confirm that the screenshots are being uploaded automatically.
 
-By following these steps, you can set up automated screenshot capturing and uploading to your Discord server, making it easier to monitor activities and share updates with your community.
+By following these steps, you can set up automated screenshot capturing and uploading to your Discord server, making it easier to monitor activities.
