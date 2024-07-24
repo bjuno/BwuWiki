@@ -1,8 +1,8 @@
 ---
-title: LividFarmWithUs
-description: Completes the Livid Farm mini-game.
+title: GemCutter3000
+description: The GemCutter3000 cuts gems. Fast.
 # Slug is the URL path for this page.
-slug: /LividFarmWithUs
+slug: /GemCutter3000
 ---
 
 import React from 'react';
@@ -12,7 +12,7 @@ import Changelog from '@site/src/components/Changelog';
 import BrowserWindow from '@site/src/components/BrowserWindow';
 import changes from './changes.json'
 
-<TopBanner title="LividFarmWithUs" version="v1.1.0" author="BotWithUs" offical="OFFICAL SCRIPT" skill="Farming">
+<TopBanner title="GemCutter3000" version="v1.1" author="sadness" skill="Crafting">
 </TopBanner>
 
 :::hidden
@@ -23,7 +23,7 @@ import changes from './changes.json'
 
 <ContentBlock title="Cost">
 
-> - FREE / month (not including client access)
+> - Free and Open Source
 
 </ContentBlock>
 
@@ -35,7 +35,10 @@ import changes from './changes.json'
 
 <ContentBlock title="Features">
 
-> - This script successfully completes the Livid Farm mini-game
+> - Supports all uncut gems
+> - Checks for level requirement
+> - Will idle if there are no gems to cut, or you don't have the required level
+> - Is open source: https://github.com/notsadness/GemCutter3000
 
 </ContentBlock>
 
@@ -46,17 +49,12 @@ import changes from './changes.json'
 :::
 <ContentBlock title="Requirements">
 
-- The player must possess one of the following 
-> - 100 or more of the following runes in their inventory - "Astral rune," "Water rune," "Earth rune," and "Nature rune."
-> - Wicked pouch
-> - Elemental battlestaff, 100+ Astral & Nature runes
-> - Elemental battlestaff + Wicked pouch
-
+- Have uncut gems saved as your last bank preset
+- Start the script near a bank/bank chest
 
 </ContentBlock>
 
 :::hidden
-
 
 ## Changelog
 
