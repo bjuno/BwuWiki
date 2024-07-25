@@ -48,7 +48,9 @@ import BrowserWindow from '@site/src/components/BrowserWindow';
 1. **Set Screenshot Intervals**: In the application settings, configure the intervals at which screenshots should be taken.
 2. **Choose Save Location**: Select the folder where the screenshots will be saved.
 3. **Adjust Capture Settings**: Configure additional settings like screen region, image format, and quality as needed.
+<details>
 ![Example](AutoScreenshotSetup.png)
+</details>
 
 ### Step 3: Start Taking Screenshots
 1. **Start the Service**: Click on the "Start" button within the application to begin automatic screenshot capture.
