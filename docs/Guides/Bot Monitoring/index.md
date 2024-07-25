@@ -11,9 +11,12 @@ import ContentBlock from '@site/src/components/ContentBlock';
 import Changelog from '@site/src/components/Changelog';
 import BrowserWindow from '@site/src/components/BrowserWindow';
 
-# Bot Monitoring
+<TopBanner title="Bot Monitoring" version="v1.0" author="bjuno"></TopBanner>
 
-## 1. Creating a Discord Server
+:::hidden
+## Creating a Discord Server
+:::
+<ContentBlock title="Creating a Discord Server">
 
 ### Step 1: Create a Server
 1. **Open Discord**: Log in to your Discord account.
