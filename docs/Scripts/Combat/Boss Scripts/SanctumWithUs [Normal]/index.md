@@ -146,10 +146,14 @@ import changes from './changes.json'
 
 > *Make sure you have the following conditons true*
 
-> - Boss portal set on left portal.
-> - Make sure you have plenty of divine charges/book charges/runes and other items to run for a long time.
-> - Make sure if you are using a reaver to set the autofire rate for them heals.
-> - If using auras make sure ur aura mangment is NOT in list view
+> - Turn walk markers on.
+> - Turn auto-retaliate off.
+> - Full manual on, ability queuing off, auto necro basic attack off.
+> - Draw distance to medium or lower.
+> - Set boss portal to left portal.
+> - Make sure you have plenty of divine charges, book charges, runes, and other items to run for a long time.
+> - If you are using a reaver, set the autofire rate for healing.
+> - If using auras, make sure your aura management is not in list view.
 
 </details>
 
