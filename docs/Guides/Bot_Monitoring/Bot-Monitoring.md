@@ -1,3 +1,15 @@
+---
+title: Bot Monitoring
+description: How to setup an automated bot monitoring on own discord server.
+# Slug is the URL path for this page.
+slug: /Bot-Monitoring
+---
+
+import React from 'react';
+import TopBanner from '@site/src/components/TopBanner';
+import ContentBlock from '@site/src/components/ContentBlock';
+import Changelog from '@site/src/components/Changelog';
+import BrowserWindow from '@site/src/components/BrowserWindow';
 
 # Bot Monitoring
 
