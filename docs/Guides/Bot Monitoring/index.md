@@ -8,29 +8,29 @@ slug: /Bot-Monitoring
 import React from 'react';
 import TopBanner from '@site/src/components/TopBanner';
 import ContentBlock from '@site/src/components/ContentBlock';
-import Changelog from '@site/src/components/Changelog';
 import BrowserWindow from '@site/src/components/BrowserWindow';
 
 <TopBanner title="Bot Monitoring" version="v1.0" author="bjuno"></TopBanner>
 
 :::hidden
-## Creating a Discord Server
+# Creating a Discord Server
 :::
-<ContentBlock title="Creating a Discord Server">
+<ContentBlock title="Creating a Discord Server"></ContentBlock>
 
-### Step 1: Create a Server
+## Step 1: Create a Server
 1. **Open Discord**: Log in to your Discord account.
-2. **Click on the "+" button**: This is located on the left sidebar.
+2. **Click on the "+" button**: This is located on the bottom left of the sidebar.
 3. **Create a Server**:
    - Choose the option "Create My Own" or use a template.
    - Enter a server name.
    - Optionally, upload an icon for your server.
    - Click "Create".
 
-### Step 2: Customize Your Server
+### (Optional) Step 2: Customize a Server
+
 1. **Create Channels**:
    - **Text Channels**: Click the "+" next to "Text Channels" to add channels (e.g., #general, #announcements).
-   - **Voice Channels**: Click the "+" next to "Voice Channels" to add channels (e.g., General, Music).
+   - **Voice Channels**: Click the "+" next to "Voice Channels" to add channels (e.g., General).
    - **Categories**: Organize channels into categories by clicking the "+" next to the server name and selecting "Create Category".
 
 2. **Set Up Roles**:
@@ -39,25 +39,27 @@ import BrowserWindow from '@site/src/components/BrowserWindow';
    - Customize permissions for each role (e.g., Admin, Moderator, Member).
    - Assign roles to members by right-clicking on their username and selecting "Roles".
 
----
-
+--
 ## 2. Setting Up "Auto Screenshot" Software
 
 ### Step 1: Download the Software
 1. **Visit the Official GitHub repo**: Go to the [Auto Screenshot](https://github.com/artem78/AutoScreenshot) GitHub page.
-3. **Download the Installer**: Scroll to the bottom and download for either Windows or Linux.
+- All credits to <i>artem78</i>, support him if you like the software!
+3. **Download the Installer**: Scroll to the bottom and download the Windows either the portable version or installer.
 
 ### Step 2: Configure Auto Screenshot
-1. **Set Screenshot Intervals**: In the application settings, configure the intervals at which screenshots should be taken.
-2. **Choose Save Location**: Select the folder where the screenshots will be saved.
-3. **Adjust Capture Settings**: Configure additional settings like screen region, image format, and quality as needed.
-<details>
-![Example](AutoScreenshotSetup.png)
-</details>
+1. **Choose Save Location and Filename template**: Select the output directory folder where the screenshots will be saved together with Filename template which will be used to name the files.
+2. **Set Screenshot Intervals**: In the application settings, configure the intervals at which screenshots should be taken [Saving interval (h:m:s) option]
+3. **Adjust Capture Settings**: Configure additional settings like image format, compression and various checkboxes. <b>DO NOT check the "Do not make screenshots when no user activity" option!</b>
+4. **Set Deletion Intervals**: To prevent cluttering space, set a reason able time interval in which the taken screenshots will be automatically deleted.
 
 ### Step 3: Start Taking Screenshots
 1. **Start the Service**: Click on the "Start" button within the application to begin automatic screenshot capture.
 2. **Monitor Activity**: Ensure the application is running in the background to continuously capture screenshots at the set intervals.
+
+<Preview>
+![Preview](AutoScreenshotSetup.png)
+</Preview>
 
 ---
 
